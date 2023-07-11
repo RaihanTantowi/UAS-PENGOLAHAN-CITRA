@@ -33,7 +33,7 @@ Kelas            : TI.21.C.1
 ![Gambar 1](img/ss1.png)
 
 
-* **Demo program**
+* **Demo program :**
 
 <div>
   <img src="img/medianfilter.gif"/>
