@@ -32,6 +32,14 @@ Kelas            : TI.21.C.1
 
 ![Gambar 1](img/ss1.png)
 
+
+* **Demo program**
+
+<div>
+  <img src="img/medianfilter.gif"/>
+</div>
+
+
 #
 #### *Note :*
 Untuk menjalankan kode program tersebut, Yaitu perlu menginstal beberapa library. Berikut adalah daftar library yang perlu diinstal :
