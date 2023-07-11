@@ -7,8 +7,8 @@ Nim              : 312110229
 Kelas            : TI.21.C.1
 ```
 #### Kode program pada repo di github ini adalah sebuah aplikasi GUI sederhana yang menggunakan library Tkinter untuk mengimplementasikan metode median filter pada citra. Aplikasi ini memungkinkan pengguna untuk mengunggah citra, memproses citra tersebut dengan metode median filter, dan menampilkan citra asli dan citra yang telah diproses serta juga menampilkan nilai mse dan pnsr dari hasil citra tersebut.
-
-Berikut adalah penjelasan singkat mengenai komponen utama dalam kode program tersebut:
+     
+* **Berikut adalah penjelasan singkat mengenai komponen utama dalam kode program tersebut :**  
 ```
 1.) Import library:
     - `tkinter`: Digunakan untuk membuat antarmuka grafis.
@@ -32,7 +32,6 @@ Berikut adalah penjelasan singkat mengenai komponen utama dalam kode program ter
 
 ![Gambar 1](img/ss1.png)
 
-#
 #
 #### *Note :*
 Untuk menjalankan kode program tersebut, Yaitu perlu menginstal beberapa library. Berikut adalah daftar library yang perlu diinstal :
